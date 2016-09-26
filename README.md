@@ -1,3 +1,3 @@
 # hello-world
 
-Making tutorial change. 
+Tutorial change.
